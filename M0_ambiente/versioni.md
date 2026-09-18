@@ -1,4 +1,4 @@
-# MODULO 0
+# MODULO 0 Esercizio 1
 ## Compiti di Informatica (Come capire la versione)
 
 ### - py --version
