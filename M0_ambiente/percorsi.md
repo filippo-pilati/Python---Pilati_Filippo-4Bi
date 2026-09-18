@@ -42,3 +42,18 @@ C:\Users\filippo.pilati\Documents\esercizio-percorsi\dati>cd ..
 Infine entro nella cartella risultati:
 
 C:\Users\filippo.pilati\Documents\esercizio-percorsi>cd risultati
+
+Per poter usare il comando Get-Location si deve essere in powershell e non cmd:
+
+C:\Users\filippo.pilati\Documents\esercizio-percorsi\risultati>powershell Windows PowerShell Copyright (C) Microsoft Corporation. 
+
+Tutti i diritti riservati.
+
+Installa la versione più recente di PowerShell per nuove funzionalità e miglioramenti. https://aka.ms/PSWindows
+
+Ora posso usare il comando:
+PS C:\Users\filippo.pilati\Documents\esercizio-percorsi\risultati> Get-Location
+
+Path
+----
+C:\Users\filippo.pilati\Documents\esercizio-percorsi\risultati
